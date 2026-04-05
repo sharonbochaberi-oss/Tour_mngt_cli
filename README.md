@@ -75,7 +75,6 @@ Customer (1) ────< Booking >──── (1) Tour
 
 ## Project Structure
 
-```
 tour_mngt_cli/
 │
 ├── main.py        # CLI interface & user input handling
@@ -84,7 +83,6 @@ tour_mngt_cli/
 ├── models.py      # Data structures (optional)
 ├── data.json      # Stored data (auto-generated)
 └── README.md      # Project documentation
-```
 
 
 ## Installation & Setup
@@ -103,8 +101,8 @@ python --version
 ### 2. Clone or Download Project
 
 ```bash
-git clone <your-repo-url>
-cd tour_management_cli
+git clone <https://github.com/sharonbochaberi-oss/Tour_mngt_cli.git>
+cd tour_mngt_cli
 
 
 ### 3. Run the Application
