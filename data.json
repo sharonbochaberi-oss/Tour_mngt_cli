@@ -1,0 +1,20 @@
+{
+    "tours": [
+        {
+            "id": 1,
+            "destination": "greece",
+            "duration": 2500,
+            "price": 2500.0,
+            "available_seats": 4
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "sharon",
+            "email": "sharon@gmail.com",
+            "phone": "0790668509"
+        }
+    ],
+    "bookings": []
+}
