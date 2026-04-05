@@ -35,7 +35,7 @@ Customer (1) ────< Booking >──── (1) Tour
 
 ##  Features
 
-### 🗺️ Tours
+### Tours
 
 * Add a new tour (destination, duration, price, seats)
 * View all tours
